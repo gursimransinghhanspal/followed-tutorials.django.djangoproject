@@ -93,6 +93,9 @@ DATABASES = {
 		'PASSWORD': 'I5loXrwnav',
 		'HOST': 'localhost',
 		'PORT': '3306',
+		'TEST': {
+			'NAME': 'tutorialapp_testdb'
+		},
 	}
 }
 
